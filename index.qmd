@@ -1,0 +1,19 @@
+---
+title: "Christine Winther Bang"
+about:
+  template: solana
+  image: photo.png
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=dj1H6yQAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/christine-bang-98b107193/
+---
+
+I'm a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I'm working in the [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/).
+
+Previously, I was a PhD student in the [Statistical Methods for Causal Inference](https://www.bips-institut.de/en/the-institute/departments/statistical-methods-in-epidemiology/statistical-methods-for-causal-inference.html) group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.
+
+My research interests include graphical models and causal inference, and my current work focuses on causal discovery.

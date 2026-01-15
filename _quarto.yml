@@ -1,0 +1,20 @@
+project:
+  type: website
+
+website:
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    tools:      
+      - icon: envelope-fill
+        href: mailto:cwb@math.ku.dk
+format:
+  html:
+    theme: flatly
+    linkcolor: "#658C58"
+    mainfont: helvetica
+
+
+
+
