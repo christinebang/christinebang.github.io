@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   navbar:
@@ -14,7 +15,3 @@ format:
     theme: flatly
     linkcolor: "#658C58"
     mainfont: helvetica
-
-
-
-
