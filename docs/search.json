@@ -4,6 +4,55 @@
     "href": "index.html",
     "title": "Christine Winther Bang",
     "section": "",
-    "text": "I’m a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I’m working in the Copenhagen Causality Lab.\nPreviously, I was a PhD student in the Statistical Methods for Causal Inference group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.\nMy research interests include graphical models and causal inference, and my current work focuses on causal discovery."
+    "text": "I’m a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I’m working in the Copenhagen Causality Lab.\nPreviously, I was a PhD student in the Statistical Methods for Causal Inference group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.\nMy research interests include graphical models and causal inference, and my current work focuses on causal discovery.\nContact: cwb [at] math [dot] ku [dot] dk"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Short CV",
+    "section": "",
+    "text": "Postdoc (2025 - present), Department of Mathematical Sciences, University of Copenhagen.\nDoctoral candidate (2020 - 2024), Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for Prevention Research and Epidemiology – BIPS, Bremen.\nStudent assistant (2018 - 2020), Department of Public Health, University of Copenhagen."
+  },
+  {
+    "objectID": "cv.html#positions",
+    "href": "cv.html#positions",
+    "title": "Short CV",
+    "section": "",
+    "text": "Postdoc (2025 - present), Department of Mathematical Sciences, University of Copenhagen.\nDoctoral candidate (2020 - 2024), Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for Prevention Research and Epidemiology – BIPS, Bremen.\nStudent assistant (2018 - 2020), Department of Public Health, University of Copenhagen."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Short CV",
+    "section": "Education",
+    "text": "Education\n\nPhD in Statistics (Dr.rer.nat.), Faculty of Mathematics and Computer Science, University of Bremen.\nMSc in Statistics (cand.scient.), Department of Mathematical Sciences, University of Copenhagen.\nBSc in Mathematics-Economics, Department of Mathematical Sciences, University of Copenhagen."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "A full list of publications can be found here."
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected publications",
+    "text": "Selected publications\nChristine W Bang and Vanessa Didelez. “Constraint-based causal discovery with tiered background knowledge and incomplete information”. Proceedings of the Fourth Conference on Causal Learning and Reasoning, PMLR 275:1116-1146, 2025 (link).\nRyan M Andrews, Christine W Bang, Vanessa Didelez, Janine Witte and Ronja Foraita. “Software Application Profile: tpc and micd – R packages for causal discovery with incomplete cohort data”. International Journal of Epidemiology, 53(5):dyae113, 2024 (link).\nChristine W Bang, Janine Witte, Ronja Foraita, and Vanessa Didelez. “Improving Finite Sample Performance of Causal Discovery by Exploiting Temporal Structure”. arXiv preprint arXiv:2406.19503, 2024 (link). \nChristine W Bang and Vanessa Didelez. “Do we become wiser with time? On causal equivalence with tiered background knowledge”. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:119-129, 2023 (link)."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Estimating Causal Effects with Observational Data (May 2026), PhD course, University of Copenhagen.\nProject in Statistics (Spring 2026), Master course, University of Copenhagen."
+  },
+  {
+    "objectID": "teaching.html#current-courses",
+    "href": "teaching.html#current-courses",
+    "title": "Teaching",
+    "section": "",
+    "text": "Estimating Causal Effects with Observational Data (May 2026), PhD course, University of Copenhagen.\nProject in Statistics (Spring 2026), Master course, University of Copenhagen."
   }
 ]

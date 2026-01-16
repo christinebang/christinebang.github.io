@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+A full list of publications can be found [here](https://scholar.google.com/citations?user=dj1H6yQAAAAJ&hl=en).
+
+## Selected publications
+
+Christine W Bang and Vanessa Didelez. "Constraint-based causal discovery with tiered background knowledge and incomplete information". *Proceedings of the Fourth Conference on Causal Learning and Reasoning*, PMLR 275:1116-1146, 2025 ([link](https://proceedings.mlr.press/v275/bang25a.html)).
+
+Ryan M Andrews, Christine W Bang, Vanessa Didelez, Janine Witte and Ronja Foraita. "Software Application Profile: tpc and micd – R packages for causal discovery with incomplete cohort data". *International Journal of Epidemiology*, 53(5):dyae113, 2024 ([link](https://doi.org/10.1093/ije/dyae113)).
+
+Christine W Bang, Janine Witte, Ronja Foraita, and Vanessa Didelez. "Improving Finite Sample Performance of Causal Discovery by Exploiting Temporal Structure". *arXiv preprint arXiv:2406.19503*, 2024 ([link](https://doi.org/10.48550/arXiv.2406.19503)). 
+
+Christine W Bang and Vanessa Didelez. "Do we become wiser with time? On causal equivalence with tiered background knowledge". *Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence*, PMLR 216:119-129, 2023 ([link](https://proceedings.mlr.press/v216/bang23a.html)).

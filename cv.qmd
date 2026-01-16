@@ -1,3 +1,20 @@
 ---
-title: "CV"
+title: "Short CV"
 ---
+
+## Positions
+
+- **Postdoc (2025 - present)**, Department of Mathematical Sciences, University of Copenhagen.
+
+- **Doctoral candidate (2020 - 2024)**, Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for
+Prevention Research and Epidemiology – BIPS, Bremen.
+
+- **Student assistant (2018 - 2020)**, Department of Public Health, University of Copenhagen.
+
+## Education
+
+- **PhD in Statistics (Dr.rer.nat.)**, Faculty of Mathematics and Computer Science, University of Bremen.
+
+- **MSc in Statistics (cand.scient.)**, Department of Mathematical Sciences, University of Copenhagen.
+
+- **BSc in Mathematics-Economics**, Department of Mathematical Sciences, University of Copenhagen.

@@ -3,10 +3,15 @@ project:
   output-dir: docs
 
 website:
+  title: "Christine Winther Bang"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - href: cv.qmd
+        text: CV
+      - href: research.qmd
+        text: Research
     tools:      
       - icon: envelope-fill
         href: mailto:cwb@math.ku.dk
