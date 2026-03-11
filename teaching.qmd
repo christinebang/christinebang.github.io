@@ -3,3 +3,7 @@ title: "Teaching"
 ---
 
 ## Current courses
+
+**Project in Statistics** (Spring 2026) MSc course, Department of Mathematical Sciences, University of Copenhagen.
+
+**Estimating Causal Effects with Observational Data** (4-8 May 2026) PhD course, Faculty of Science, University of Copenhagen.
