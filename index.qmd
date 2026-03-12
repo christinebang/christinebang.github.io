@@ -12,7 +12,7 @@ about:
       href: https://www.linkedin.com/in/christine-bang-98b107193/
 ---
 
-I'm a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I'm working in the [Copenhagen Causality Lab](https://www.math.ku.dk/english/research/spt/cocala/). Currently, I'm visiting the [Causal inference program](https://www.newton.ac.uk/event/cif/) at the Isaac Newton Institute in Cambridge.
+I'm a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I'm working in the [Copenhagen Causality Lab](https://cocala.github.io/). Currently, I'm visiting the [Causal inference program](https://www.newton.ac.uk/event/cif/) at the Isaac Newton Institute in Cambridge.
 
 Previously, I was a PhD student in the [Statistical Methods for Causal Inference](https://www.bips-institut.de/en/the-institute/departments/statistical-methods-in-epidemiology/statistical-methods-for-causal-inference.html) group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.
 
