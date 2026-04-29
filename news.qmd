@@ -1,0 +1,11 @@
+---
+title: "News"
+---
+
+- **August 2026:** I will join the [Center for Statistics](https://www.cbs.dk/en/research/departments/department-finance/center-statistics) at Copenhagen Business School as an assistant professor.
+
+- **July 2026:** I will participate in the [European Young Statisticians Meeting (EYSM)](https://www.eysmvilnius2026.mif.vu.lt/) in Vilnius.
+
+- **April 2026:** I gave a talk at the [European Causal Inference Meeting (EuroCIM)](https://eurocim.org/oxford-2026/) in Oxford.
+
+- **March - April 2026:** I visited the [Causal inference program](https://www.newton.ac.uk/event/cif/) at the Isaac Newton Institute in Cambridge.

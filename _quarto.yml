@@ -8,17 +8,22 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: news.qmd
+        text: News
       - href: cv.qmd
         text: CV
       - href: research.qmd
         text: Research
       - href: teaching.qmd
         text: Teaching
-    tools:      
-      - icon: envelope-fill
-        href: mailto:cwb@math.ku.dk
 format:
   html:
     theme: flatly
-    linkcolor: "#658C58"
+    css: styles.css
     mainfont: helvetica
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+    include-after-body:
+      text: |
+        <footer class="footer"> © Copyright 2026 Christine Winther Bang</footer>
