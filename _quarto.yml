@@ -4,7 +4,9 @@ project:
 
 website:
   title: "Christine Bang"
+  search: false
   navbar:
+    foreground: black
     left:
       - href: index.qmd
         text: Home

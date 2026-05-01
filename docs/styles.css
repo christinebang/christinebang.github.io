@@ -1,10 +1,6 @@
 /* css styles */
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap');
 
-/*fjerne søgeknappen*/
-.aa-DetachedSearchButtonIcon {display:none;}
- 
-
 .navbar-title, h1 {
   font-family: domine;
 }
@@ -28,9 +24,7 @@ a {
 a:hover {
   color: #f0a3bb;
 }
-.navbar-toggler {
-  color: black !important;
-}
+
 nav {
   background-image: url("Christine_header.jpg");
   background-size: cover;
