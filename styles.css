@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap');
 
 /*fjerne søgeknappen*/
-.aa-SubmitIcon, .aa-DetachedSearchButtonIcon {display:none;}
+ .aa-DetachedSearchButtonIcon {display:none;}
 
 .navbar-title, h1 {
   font-family: domine;
