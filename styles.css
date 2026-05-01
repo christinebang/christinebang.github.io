@@ -28,7 +28,9 @@ a {
 a:hover {
   color: #f0a3bb;
 }
-
+.navbar-toggler {
+  color: black !important;
+}
 nav {
   background-image: url("Christine_header.jpg");
   background-size: cover;
