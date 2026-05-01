@@ -3,6 +3,7 @@
 
 /*fjerne søgeknappen*/
  .aa-DetachedSearchButtonIcon {display:none;}
+ 
 
 .navbar-title, h1 {
   font-family: domine;
@@ -37,6 +38,9 @@ nav a span{
 }
 nav a span:hover {
   color: white;
+}
+.navbar-toggler-icon {
+  color: black;
 }
 nav .nav-item .active span{
   color: white !important;
