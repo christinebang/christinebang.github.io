@@ -4,7 +4,9 @@ title: "Short CV"
 
 ## Positions
 
-- **Postdoc (2025 - present)**, Department of Mathematical Sciences, University of Copenhagen.
+- **Assistant professor (2026 - present)**, Center for Statistics, Copenhagen Business School. 
+
+- **Postdoc (2025 - 2026)**, Department of Mathematical Sciences, University of Copenhagen.
 
 - **Doctoral candidate (2020 - 2024)**, Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for
 Prevention Research and Epidemiology – BIPS, Bremen.

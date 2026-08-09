@@ -6,7 +6,7 @@ A full list of publications can be found [here](https://scholar.google.com/citat
 
 ## Selected publications
 
-Christine W Bang, Janine Witte, Ronja Foraita, and Vanessa Didelez. "Improving Finite Sample Performance of Causal Discovery by Exploiting Temporal Structure". *Statistical Methods in Medical Research (forthcoming)*, 2026 ([link](https://arxiv.org/pdf/2406.19503)). 
+Christine W Bang, Janine Witte, Ronja Foraita, and Vanessa Didelez. "Improving Finite Sample Performance of Causal Discovery by Exploiting Temporal Structure". *Statistical Methods in Medical Research*, 35(4):867-886, 2026. ([link](https://arxiv.org/pdf/2406.19503)). 
 
 Christine W Bang and Vanessa Didelez. "Constraint-based causal discovery with tiered background knowledge and incomplete information". *Proceedings of the Fourth Conference on Causal Learning and Reasoning*, PMLR 275:1116-1146, 2025 ([link](https://arxiv.org/pdf/2503.21526)).
 

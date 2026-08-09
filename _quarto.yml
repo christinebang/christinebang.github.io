@@ -6,6 +6,7 @@ website:
   title: "Christine Bang"
   search: false
   navbar:
+    background: "#FFFFFF"
     foreground: black
     left:
       - href: index.qmd

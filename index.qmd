@@ -6,13 +6,11 @@ about:
   image-shape: round
 ---
 
-I'm a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I'm working in the [Copenhagen Causality Lab](https://cocala.github.io/).
+I'm an assistant professor of statistics at [Copenhagen Business School](https://www.cbs.dk/en/research/departments/department-finance/center-statistics). My research interests include graphical models and causal inference, and my current work is focused on causal discovery.
 
-Previously, I was a PhD student in the [Statistical Methods for Causal Inference](https://www.bips-institut.de/en/the-institute/departments/statistical-methods-in-epidemiology/statistical-methods-for-causal-inference.html) group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.
+Previously, I was a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I was a part of the [Copenhagen Causality Lab](https://cocala.github.io/). Before that, I was a PhD student in the [Statistical Methods for Causal Inference](https://www.bips-institut.de/en/the-institute/departments/statistical-methods-in-epidemiology/statistical-methods-for-causal-inference.html) group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.
 
-My research interests include graphical models and causal inference, and my current work is focused on causal discovery.
-
-My email address is cwb (at) math (dot) ku (dot) dk.
+My email address is cwb (dot) fi (at) cbs (dot) dk.
 
 <br>
 
@@ -26,7 +24,7 @@ My email address is cwb (at) math (dot) ku (dot) dk.
   <a href="https://www.linkedin.com/in/christine-bang-98b107193/" style="margin: 0 15px;">
     <i class="bi bi-linkedin"></i>
   </a>
-  <a href="mailto:cwb@math.ku.dk" style="margin: 0 15px;">
+  <a href="mailto:cwb.fi@cbs.ku.dk" style="margin: 0 15px;">
     <i class="bi bi-envelope"></i>
   </a>
 </div>

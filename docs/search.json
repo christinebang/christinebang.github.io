@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Christine Winther Bang",
     "section": "",
-    "text": "I’m a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I’m working in the Copenhagen Causality Lab.\nPreviously, I was a PhD student in the Statistical Methods for Causal Inference group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.\nMy research interests include graphical models and causal inference, and my current work is focused on causal discovery.\nMy email address is cwb (at) math (dot) ku (dot) dk."
+    "text": "I’m an assistant professor of statistics at Copenhagen Business School. My research interests include graphical models and causal inference, and my current work is focused on causal discovery.\nPreviously, I was a postdoc at the Department of Mathematical Sciences at the University of Copenhagen, where I was a part of the Copenhagen Causality Lab. Before that, I was a PhD student in the Statistical Methods for Causal Inference group at the Leibniz Institute for Prevention Research and Epidemiology - BIPS in Bremen.\nMy email address is cwb (dot) fi (at) cbs (dot) dk."
   },
   {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "Short CV",
     "section": "",
-    "text": "Postdoc (2025 - present), Department of Mathematical Sciences, University of Copenhagen.\nDoctoral candidate (2020 - 2024), Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for Prevention Research and Epidemiology – BIPS, Bremen.\nStudent assistant (2018 - 2020), Department of Public Health, University of Copenhagen."
+    "text": "Assistant professor (2026 - present), Center for Statistics, Copenhagen Business School.\nPostdoc (2025 - 2026), Department of Mathematical Sciences, University of Copenhagen.\nDoctoral candidate (2020 - 2024), Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for Prevention Research and Epidemiology – BIPS, Bremen.\nStudent assistant (2018 - 2020), Department of Public Health, University of Copenhagen."
   },
   {
     "objectID": "cv.html#positions",
     "href": "cv.html#positions",
     "title": "Short CV",
     "section": "",
-    "text": "Postdoc (2025 - present), Department of Mathematical Sciences, University of Copenhagen.\nDoctoral candidate (2020 - 2024), Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for Prevention Research and Epidemiology – BIPS, Bremen.\nStudent assistant (2018 - 2020), Department of Public Health, University of Copenhagen."
+    "text": "Assistant professor (2026 - present), Center for Statistics, Copenhagen Business School.\nPostdoc (2025 - 2026), Department of Mathematical Sciences, University of Copenhagen.\nDoctoral candidate (2020 - 2024), Faculty of Mathematics and Computer Science, University of Bremen and Leibniz Institute for Prevention Research and Epidemiology – BIPS, Bremen.\nStudent assistant (2018 - 2020), Department of Public Health, University of Copenhagen."
   },
   {
     "objectID": "cv.html#education",
@@ -39,7 +39,7 @@
     "href": "research.html#selected-publications",
     "title": "Research",
     "section": "Selected publications",
-    "text": "Selected publications\nChristine W Bang, Janine Witte, Ronja Foraita, and Vanessa Didelez. “Improving Finite Sample Performance of Causal Discovery by Exploiting Temporal Structure”. Statistical Methods in Medical Research (forthcoming), 2026 (link). \nChristine W Bang and Vanessa Didelez. “Constraint-based causal discovery with tiered background knowledge and incomplete information”. Proceedings of the Fourth Conference on Causal Learning and Reasoning, PMLR 275:1116-1146, 2025 (link).\nRyan M Andrews, Christine W Bang, Vanessa Didelez, Janine Witte and Ronja Foraita. “Software Application Profile: tpc and micd – R packages for causal discovery with incomplete cohort data”. International Journal of Epidemiology, 53(5):dyae113, 2024 (link).\nChristine W Bang and Vanessa Didelez. “Do we become wiser with time? On causal equivalence with tiered background knowledge”. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:119-129, 2023 (link)."
+    "text": "Selected publications\nChristine W Bang, Janine Witte, Ronja Foraita, and Vanessa Didelez. “Improving Finite Sample Performance of Causal Discovery by Exploiting Temporal Structure”. Statistical Methods in Medical Research, 35(4):867-886, 2026. (link). \nChristine W Bang and Vanessa Didelez. “Constraint-based causal discovery with tiered background knowledge and incomplete information”. Proceedings of the Fourth Conference on Causal Learning and Reasoning, PMLR 275:1116-1146, 2025 (link).\nRyan M Andrews, Christine W Bang, Vanessa Didelez, Janine Witte and Ronja Foraita. “Software Application Profile: tpc and micd – R packages for causal discovery with incomplete cohort data”. International Journal of Epidemiology, 53(5):dyae113, 2024 (link).\nChristine W Bang and Vanessa Didelez. “Do we become wiser with time? On causal equivalence with tiered background knowledge”. Proceedings of the Thirty-Ninth Conference on Uncertainty in Artificial Intelligence, PMLR 216:119-129, 2023 (link)."
   },
   {
     "objectID": "teaching.html",
@@ -67,6 +67,6 @@
     "href": "news.html",
     "title": "News",
     "section": "",
-    "text": "August 2026: I will join the Center for Statistics at Copenhagen Business School as an assistant professor.\nJuly 2026: I will participate in the European Young Statisticians Meeting (EYSM) in Vilnius.\nApril 2026: I gave a talk at the European Causal Inference Meeting (EuroCIM) in Oxford.\nMarch - April 2026: I visited the Causal inference program at the Isaac Newton Institute in Cambridge."
+    "text": "August 2026: I joined the Center for Statistics at Copenhagen Business School as an assistant professor.\nJuly 2026: I will participate in the European Young Statisticians Meeting (EYSM) in Vilnius.\nApril 2026: I gave a talk at the European Causal Inference Meeting (EuroCIM) in Oxford.\nMarch - April 2026: I visited the Causal inference program at the Isaac Newton Institute in Cambridge."
   }
 ]
